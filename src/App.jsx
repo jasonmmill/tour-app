@@ -17,5 +17,3 @@ function App() { // main app component
 }
 
 export default App
-
-const jason = "jason"
